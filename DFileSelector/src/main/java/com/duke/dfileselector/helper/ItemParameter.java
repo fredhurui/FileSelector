@@ -1,9 +1,10 @@
 package com.duke.dfileselector.helper;
 
 import android.content.Context;
-import android.support.annotation.ColorInt;
-import android.support.annotation.DimenRes;
-import android.support.annotation.DrawableRes;
+
+import androidx.annotation.ColorInt;
+import androidx.annotation.DimenRes;
+import androidx.annotation.DrawableRes;
 
 import com.duke.dfileselector.util.SizeUtils;
 

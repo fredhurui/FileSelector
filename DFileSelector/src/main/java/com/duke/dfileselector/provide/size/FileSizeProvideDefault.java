@@ -1,7 +1,7 @@
 package com.duke.dfileselector.provide.size;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.duke.dfileselector.R;
 import com.duke.dfileselector.constant.LengthConstant;

@@ -1,6 +1,6 @@
 package com.duke.dfileselector.bean;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.duke.dfileselector.util.FileSelectorUtils;
 
